@@ -33,6 +33,6 @@ public class Produit {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "Id --> " + getId() + " Name --> " + getName();
+		return "IdProduct --> " + getId() + " NameProduct --> " + getName();
 	}
 }
